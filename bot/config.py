@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = ""
     APP_ID = "27905708"
     API_HASH = "a00a05f94e1107eb9087c6ef1f554959"
-    DATABASE_URL = "mongodb+srv://ProjectX3Optimus:ProjectX3Optimus@projectx3optimus.vcyojv9.mongodb.net/?retryWrites=true&w=majority"
+    DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
