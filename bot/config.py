@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "6536815613:AAH8m45RW6LVOwof9bkdCwcqiDLQZqsuu8w"
+    APP_ID = "27905708"
+    API_HASH = "a00a05f94e1107eb9087c6ef1f554959"
+    DATABASE_URL = "mongodb+srv://ProjectX3Optimus:ProjectX3Optimus@projectx3optimus.vcyojv9.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "5660906282" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
